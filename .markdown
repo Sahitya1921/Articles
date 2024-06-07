@@ -1,4 +1,4 @@
-Artificial Intelligence 
+# Artificial Intelligence 
 
 Artificial Intelligence is the encouragement of human brain intelligence in a machine body or device. This system can process learning, thinking logically, and self-correction. This gives a diverse scope to typically performed tasks that require human intelligence. 
 
