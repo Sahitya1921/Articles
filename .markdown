@@ -4,4 +4,5 @@ Artificial Intelligence is the encouragement of human brain intelligence in a ma
 
 ## Basic AI Terminologies 
 
-*Machine Learning - 
+**Machine Learning** - 
+It is a section of AI that allows the system to learn from data without being distinctively programmed. It focuses mainly on algorithms that help to perform according to data based prediction and improvement. For example-robots perform calculations according to data fed to them. 
