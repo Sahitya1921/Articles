@@ -101,9 +101,10 @@ Here, it can be used in security cameras for detection of any unobvious activity
 There are a number of robots that are designed to work for this. By measuring the area, they keep it clean, just like a robotic mop.
 
 ***Environmental Monitoring:*** 
+
 Controlling the humidity and temperatures according to the atmosphere. One of the best-used ones is an air purifier used in cities where pollution is high.
 
-#### *This is all about artificial intelligence. This technology has a lot more to discuss, but for now, we end this here and hope for more such development in the technological world.*
+*__This is all about artificial intelligence. This technology has a lot more to discuss, but for now, we end this here and hope for more such development in the technological world.__***
 
 
 
