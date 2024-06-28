@@ -104,7 +104,7 @@ There are a number of robots that are designed to work for this. By measuring th
 
 Controlling the humidity and temperatures according to the atmosphere. One of the best-used ones is an air purifier used in cities where pollution is high.
 
-*__This is all about artificial intelligence. This technology has a lot more to discuss, but for now, we end this here and hope for more such development in the technological world.__***
+*__This is all about artificial intelligence. This technology has a lot more to discuss, but for now, we end this here and hope for more such development in the technological world.__*
 
 
 
